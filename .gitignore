@@ -1,0 +1,9 @@
+/target/classes/jm/task/core/jdbc/Main.class
+/target/classes/jm/task/core/jdbc/model/User.class
+/target/classes/jm/task/core/jdbc/dao/UserDao.class
+/target/classes/jm/task/core/jdbc/dao/UserDaoHibernateImpl.class
+/target/classes/jm/task/core/jdbc/dao/UserDaoJDBCImpl.class
+/target/classes/jm/task/core/jdbc/service/UserService.class
+/target/classes/jm/task/core/jdbc/service/UserServiceImpl.class
+/target/test-classes/UserServiceTest.class
+/target/classes/jm/task/core/jdbc/util/Util.class
